@@ -1,0 +1,24 @@
+body{
+  background-color:#083b4c;
+
+}
+h1{
+  font-size:80px
+}
+.box{
+  background-color: #1389b2;
+  height:80px;
+  width:80px;
+  margin:10px;
+  line-height:80px;
+  text-align:center;
+}
+.buzz{
+  background-color:#73928a;
+}
+.fizz{
+  background-color:#ffd166;
+}
+.buzzfizz{
+  background-color:#f0466f;
+}
